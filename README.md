@@ -1,6 +1,7 @@
+ 
 # github-final-project
 
- ## Simple Interest Calculator
+## Simple Interest Calculator
 
 This project is created as part of the GitHub Final Project assignment.
 
@@ -22,6 +23,8 @@ Principal: 1000
 Rate: 5  
 Time: 2  
 
-Output:
+Output:  
 Simple Interest = 100
 
+Minor typo fix
+Another minor fix
